@@ -3,8 +3,10 @@ name = "pword"
 version = "0.1.0"
 authors = ["drbh <david.richard.holtz@gmail.com>"]
 edition = "2018"
-
+description = "pword is a secure password generator that lets you create unique passwords for websites based on an easy to remember master phrase."
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+
 
 [dependencies]
 chbs = "0.0.9"
