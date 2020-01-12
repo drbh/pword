@@ -1,0 +1,13 @@
+[package]
+name = "pword"
+version = "0.1.0"
+authors = ["drbh <david.richard.holtz@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chbs = "0.0.9"
+rust-argon2 = "0.6.1"
+clap = "2.33.0"
+rpassword = "0.0.4"
