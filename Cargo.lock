@@ -257,7 +257,7 @@ dependencies = [
 
 [[package]]
 name = "pword"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "chbs 0.0.9 (registry+https://github.com/rust-lang/crates.io-index)",
  "clap 2.33.0 (registry+https://github.com/rust-lang/crates.io-index)",
