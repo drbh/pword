@@ -1,6 +1,6 @@
 [package]
 name = "pword"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["drbh <david.richard.holtz@gmail.com>"]
 edition = "2018"
 description = "pword is a secure password generator that lets you create unique passwords for websites based on an easy to remember master phrase."
