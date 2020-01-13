@@ -9,7 +9,7 @@ license = "MIT/Apache-2.0"
 keywords = ["cryptography", "password", "generator", "deterministic", "offline"]
 homepage = "https://github.com/drbh/pword"
 repository = "https://github.com/drbh/pword.git"
-readme = "https://raw.githubusercontent.com/drbh/pword/master/README.md"
+readme = "README.md"
 
 [dependencies]
 chbs = "0.0.9"
