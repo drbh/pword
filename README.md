@@ -13,6 +13,14 @@ You should be able to install this program on any computer and access any of you
 If you enter the above text into pword, it will always show you the same password of `raW5kbmVzcyBjbG92ZXI` which I suggest you do not actually use - this is for demonstration purposes only. 
 
 ## Installation
+
+Quick install
+```bash
+cargo install pword
+```
+
+
+Clone and build install
 ```bash
 git clone https://github.com/drbh/pword.git
 cd pword
